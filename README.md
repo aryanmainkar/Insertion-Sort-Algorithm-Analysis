@@ -1,4 +1,13 @@
 # Insertion Sort Algorithm Runtime Analysis
+
+# MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 <h2 style = "font-size : 18px";>Introduction </h2><ul><li> This program is a C implementation of the Insertion Sort algorithm. It reads integer values from an input file and sorts them in ascending order using the Insertion Sort algorithm. The sorted values are then printed to the console. The purpose of this program is to demonstrate the performance of the Insertion Sort algorithm for varying input sizes.</li></ul>
 
 <h2 style = "font-size : 18px";> Description</h2><ul><li>The program was writen to implement the Insertion Sort algorithm in C and measure its performance for various input sizes. The program reads input values from a file and sorts them in ascending order using the Insertion Sort algorithm. The sorted values are then printed to the console. The program is designed to measure the running time of the algorithm for various input sizes. </li></ul>
